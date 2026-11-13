@@ -157,7 +157,7 @@ manufacturing-line-productivity/
 
 ## 🛠️ Skills Demonstrated
 
-Data cleaning and reshaping · Data modeling (fact and dimension tables) · KPI design · Pareto analysis · Root-cause analysis · Data validation and reconciliation · Dashboard design · Translating data into business recommendations
+Data cleaning and reshaping · Data modeling (fact and dimension tables) · KPI design · Root-cause analysis · Data validation and reconciliation · Dashboard design · Translating data into business recommendations
 
 ---
 
