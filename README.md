@@ -142,6 +142,9 @@ manufacturing-line-productivity/
 ├── README.md                              ← you are here
 ├── Manufacturing_Line_Productivity.xlsx   ← data + dashboard
 ├── data_dictionary.csv                    ← field definitions
+├── data/
+│   └── raw/
+│       └── Manufacturing_Line_Productivity_RAW.xlsx   ← original, untouched
 ├── docs/
 │   └── data_cleaning.md                   ← cleaning log and validation
 └── images/
