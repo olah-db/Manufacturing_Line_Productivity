@@ -1,4 +1,4 @@
-# 🥤 Manufacturing Line Productivity Analysis
+#  Manufacturing Line Productivity Analysis
 
 **An Excel dashboard that shows where a soda bottling line loses time, why it happens, and what to fix first.**
 
